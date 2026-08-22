@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardik-kaushik07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
