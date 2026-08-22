@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/hardik-kaushik07/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/hardik-kaushik07/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
