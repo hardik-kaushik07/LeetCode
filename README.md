@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/hardik-kaushik07/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hardik-kaushik07/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
@@ -39,13 +41,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
