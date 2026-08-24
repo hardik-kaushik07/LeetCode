@@ -6,15 +6,23 @@ class Solution {
         if(nums[0]!=1){
             miss = 1;
         }
-        for(int i = 1; i < nums.length; i++){
-            if(nums[i]!=nums[i-1] && nums[i]!=nums[i-1]+1){
-                miss = nums[i-1]+1;
-            }
-            if(nums[i]==nums[i-1]){
+        // for(int i = 1; i < nums.length; i++){
+        //     if(nums[i]!=nums[i-1] && nums[i]!=nums[i-1]+1){
+        //         miss = nums[i-1]+1;
+        //     }
+        //     if(nums[i]==nums[i-1]){
+        //         dup = nums[i];
+        //     }
+        // }
+        
+        for(int i = 1; i < nums.length; i++) {
+            if(nums[i] == nums[i - 1]) {
                 dup = nums[i];
             }
+            else if(nums[i] > nums[i - 1] + 1) {
+                miss = nums[i - 1] + 1;
+            }
         }
-            
         
         if(nums[nums.length-1]!=nums.length){
             miss = nums.length;
