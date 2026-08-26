@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
