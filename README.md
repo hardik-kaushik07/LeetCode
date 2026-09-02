@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/hardik-kaushik07/LeetCode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
