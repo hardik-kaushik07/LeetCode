@@ -50,7 +50,7 @@ class Solution {
             int a = pre[i][0], b = pre[i][1];
             adj.get(b).add(a);
         }
-        for(int  i = 0; i < pre.length; i++){
+        for(int  i = 0; i < n; i++){
             if(vis[i]==false){
                 dfs(i, adj, vis, path);
             }
@@ -62,11 +62,15 @@ class Solution {
         vis[i] = true;
         path[i] = true;
         for(int ele: adj.get(i)){
+
+            if(!vis[ele]){
+                dfs(ele, adj, vis, path);
+            }
+
             if(path[ele]==true){
                 ans = false;
                 return;
             }
-            dfs(ele, adj, vis, path);
         }
         path[i] = false;
     }
