@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,8 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hardik-kaushik07/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hardik-kaushik07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
