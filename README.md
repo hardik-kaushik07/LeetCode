@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/hardik-kaushik07/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0601-human-traffic-of-stadium](https://github.com/hardik-kaushik07/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [1158-market-analysis-i](https://github.com/hardik-kaushik07/LeetCode/tree/master/1158-market-analysis-i) |
+| [3220-odd-and-even-transactions](https://github.com/hardik-kaushik07/LeetCode/tree/master/3220-odd-and-even-transactions) |
 ## Math
 |  |
 | ------- |
