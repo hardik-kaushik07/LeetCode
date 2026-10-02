@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -216,5 +218,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
