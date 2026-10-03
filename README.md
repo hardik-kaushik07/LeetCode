@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hardik-kaushik07/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
