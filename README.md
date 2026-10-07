@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardik-kaushik07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/hardik-kaushik07/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
