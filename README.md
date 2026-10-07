@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0136-single-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
