@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/hardik-kaushik07/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0113-path-sum-ii) |
 ## Matrix
