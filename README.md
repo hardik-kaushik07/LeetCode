@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/hardik-kaushik07/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/hardik-kaushik07/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
 | ------- |
