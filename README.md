@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0040-combination-sum-ii) |
