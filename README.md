@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0045-jump-game-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hardik-kaushik07/LeetCode/tree/master/0046-permutations) |
@@ -289,14 +292,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/hardik-kaushik07/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0052-n-queens-ii) |
 ## Bitmask
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
