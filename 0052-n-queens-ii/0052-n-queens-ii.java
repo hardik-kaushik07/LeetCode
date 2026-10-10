@@ -5,18 +5,11 @@ class Solution {
             Arrays.fill(board[i], '.');
         }
         return solve(board, n, 0);
-
-        
     }
 
     public int solve(char[][] board, int n, int col){
 
         if(col >= n){
-            // List<String> list = new ArrayList<>();
-            // for(int  i = 0; i < n; i++){
-            //     list.add(new String(board[i]));
-            // }
-            // ans.add(list);
             return  1;
         }
         int total = 0;
