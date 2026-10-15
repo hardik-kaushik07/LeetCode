@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hardik-kaushik07/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hardik-kaushik07/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0090-subsets-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/hardik-kaushik07/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hardik-kaushik07/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0980-unique-paths-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0980-unique-paths-iii) |
