@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardik-kaushik07/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardik-kaushik07/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1539-kth-missing-positive-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -218,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardik-kaushik07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hardik-kaushik07/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0980-unique-paths-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0980-unique-paths-iii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
