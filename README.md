@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0473-matchsticks-to-square](https://github.com/hardik-kaushik07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/0493-reverse-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hardik-kaushik07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hardik-kaushik07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
