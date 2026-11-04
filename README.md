@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/hardik-kaushik07/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/hardik-kaushik07/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/hardik-kaushik07/LeetCode/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/hardik-kaushik07/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0601-human-traffic-of-stadium](https://github.com/hardik-kaushik07/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/hardik-kaushik07/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/hardik-kaushik07/LeetCode/tree/master/0608-tree-node) |
