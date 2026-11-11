@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0473-matchsticks-to-square](https://github.com/hardik-kaushik07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/hardik-kaushik07/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0912-sort-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
