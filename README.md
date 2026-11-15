@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardik-kaushik07/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1539-kth-missing-positive-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
