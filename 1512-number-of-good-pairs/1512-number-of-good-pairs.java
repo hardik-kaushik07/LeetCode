@@ -3,10 +3,13 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
         int goodPairs = 0;
         for(int i = 0; i < nums.length; i++){
-            int count = map.getOrDefault(nums[i],0);
-            goodPairs += count;
-            map.put(nums[i], count+1);
+            map.put(nums[i], map.getOrDefault(nums[i],0)+1);
         }
-        return goodPairs;
+        for(int i = 0; i < nums.length; i++){
+            if(map.get(nums[i])>1){
+                goodPairs += map.get(nums[i])-1;
+            }
+        }
+        return goodPairs/2;
     }
 }
