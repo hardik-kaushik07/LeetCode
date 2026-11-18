@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/hardik-kaushik07/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0912-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0980-unique-paths-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardik-kaushik07/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hardik-kaushik07/LeetCode/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardik-kaushik07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0953-verifying-an-alien-dictionary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hardik-kaushik07/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0953-verifying-an-alien-dictionary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hardik-kaushik07/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/1512-number-of-good-pairs) |
