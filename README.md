@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/hardik-kaushik07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/hardik-kaushik07/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0912-sort-an-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/hardik-kaushik07/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
 |  |
