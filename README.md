@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/hardik-kaushik07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hardik-kaushik07/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/hardik-kaushik07/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 ## Prefix Sum
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hardik-kaushik07/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hardik-kaushik07/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/hardik-kaushik07/LeetCode/tree/master/0994-rotting-oranges) |
