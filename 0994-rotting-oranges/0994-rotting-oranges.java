@@ -10,7 +10,7 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int fresh = 0;
         Queue<pair> q = new LinkedList<>();
-        boolean[][] visited = new boolean[grid.length][grid[0].length];
+        // boolean[][] visited = new boolean[grid.length][grid[0].length];
         int minTime = 0;
         for(int i = 0; i < grid.length; i++){
             for(int j = 0; j < grid[0].length; j++){
@@ -27,30 +27,30 @@ class Solution {
             int row = front.row;
             int col = front.col;
             int time = front.time;
-            visited[row][col] = true;
+            // visited[row][col] = true;
             minTime = Math.max(minTime, time);
-            if(row>0 && grid[row-1][col] == 1 && !visited[row-1][col]){
+            if(row>0 && grid[row-1][col] == 1){
                 q.add(new pair(row-1, col, time+1));
-                grid[row-1][col] = 2;
-                visited[row-1][col] = true;
+                grid[row-1][col] = 3;
+                // visited[row-1][col] = true;
                 fresh--;
             }
-            if(row < grid.length-1 && grid[row+1][col] == 1 && !visited[row+1][col]){
+            if(row < grid.length-1 && grid[row+1][col] == 1){
                 q.add(new pair(row+1, col, time+1));
-                grid[row+1][col] = 2;
-                visited[row+1][col] = true;
+                grid[row+1][col] = 3;
+                // visited[row+1][col] = true;
                 fresh--;
             }
-            if(col>0 && grid[row][col-1] == 1 && !visited[row][col-1]){
+            if(col>0 && grid[row][col-1] == 1){
                 q.add(new pair(row, col-1, time+1));
-                grid[row][col-1] = 2;
-                visited[row][col-1] = true;
+                grid[row][col-1] = 3;
+                // visited[row][col-1] = true;
                 fresh--;
             }
-            if(col < grid[0].length-1 && grid[row][col+1] == 1 && !visited[row][col+1]){
+            if(col < grid[0].length-1 && grid[row][col+1] == 1){
                 q.add(new pair(row, col+1, time+1));
-                grid[row][col+1] = 2;
-                visited[row][col+1] = true;
+                grid[row][col+1] = 3;
+                // visited[row][col+1] = true;
                 fresh--;
             }
         }
