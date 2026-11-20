@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hardik-kaushik07/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/hardik-kaushik07/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/hardik-kaushik07/LeetCode/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hardik-kaushik07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hardik-kaushik07/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-kaushik07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/0493-reverse-pairs) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/hardik-kaushik07/LeetCode/tree/master/0389-find-the-difference) |
 | [0473-matchsticks-to-square](https://github.com/hardik-kaushik07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/hardik-kaushik07/LeetCode/tree/master/0645-set-mismatch) |
@@ -429,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardik-kaushik07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
