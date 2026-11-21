@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/hardik-kaushik07/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hardik-kaushik07/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/hardik-kaushik07/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/hardik-kaushik07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/hardik-kaushik07/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hardik-kaushik07/LeetCode/tree/master/0392-is-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hardik-kaushik07/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hardik-kaushik07/LeetCode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/hardik-kaushik07/LeetCode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/hardik-kaushik07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/hardik-kaushik07/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/hardik-kaushik07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-kaushik07/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hardik-kaushik07/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/hardik-kaushik07/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
