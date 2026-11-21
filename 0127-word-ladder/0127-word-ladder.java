@@ -13,7 +13,9 @@ class Solution {
         for(String s : wordList){
             set.add(s);
         }
-
+        if(!set.contains(endWord)){
+            return 0;
+        }
         q.add(new Pair(beginWord, 1));
         set.remove(beginWord);
         while(q.size()>0){
