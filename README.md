@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-kaushik07/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/hardik-kaushik07/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/hardik-kaushik07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardik-kaushik07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/hardik-kaushik07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-kaushik07/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hardik-kaushik07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/hardik-kaushik07/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardik-kaushik07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Pigeonhole Principle
@@ -501,4 +504,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/hardik-kaushik07/LeetCode/tree/master/0127-word-ladder) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
