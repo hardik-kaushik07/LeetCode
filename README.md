@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/hardik-kaushik07/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 ## Prefix Sum
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/hardik-kaushik07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hardik-kaushik07/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/hardik-kaushik07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hardik-kaushik07/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/hardik-kaushik07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/hardik-kaushik07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-kaushik07/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-kaushik07/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -472,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-kaushik07/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
