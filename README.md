@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/hardik-kaushik07/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hardik-kaushik07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/hardik-kaushik07/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/hardik-kaushik07/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hardik-kaushik07/LeetCode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hardik-kaushik07/LeetCode/tree/master/0079-word-search) |
