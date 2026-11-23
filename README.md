@@ -530,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/hardik-kaushik07/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
