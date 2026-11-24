@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hardik-kaushik07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/hardik-kaushik07/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/hardik-kaushik07/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hardik-kaushik07/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/hardik-kaushik07/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hardik-kaushik07/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/hardik-kaushik07/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/hardik-kaushik07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/hardik-kaushik07/LeetCode/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hardik-kaushik07/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
