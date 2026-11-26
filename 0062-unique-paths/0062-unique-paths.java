@@ -29,6 +29,10 @@ class Solution {
         if(row >= m || col >= n) return 0;
         if(row == m-1 && col == n-1) return 1;
         if(dp[row][col]!=-1) return dp[row][col];
-        return dp[row][col] = helper(row, col+1, m, n, dp) + helper(row+1, col, m, n, dp);
+        int right = helper(row, col+1, m, n, dp);
+        int down = helper(row+1, col, m, n, dp);
+        // return dp[row][col] = helper(row, col+1, m, n, dp) + helper(row+1, col, m, n, dp);
+
+        return dp[row][col] = right + down;
     }
 }
