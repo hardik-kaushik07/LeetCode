@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hardik-kaushik07/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0202-happy-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardik-kaushik07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/hardik-kaushik07/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hardik-kaushik07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/hardik-kaushik07/LeetCode/tree/master/0198-house-robber) |
@@ -605,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0337-house-robber-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hardik-kaushik07/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
