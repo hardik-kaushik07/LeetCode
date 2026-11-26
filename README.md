@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hardik-kaushik07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/hardik-kaushik07/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/3360-stone-removal-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hardik-kaushik07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/hardik-kaushik07/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/hardik-kaushik07/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hardik-kaushik07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hardik-kaushik07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
