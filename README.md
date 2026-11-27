@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hardik-kaushik07/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hardik-kaushik07/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/hardik-kaushik07/LeetCode/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hardik-kaushik07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardik-kaushik07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hardik-kaushik07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/hardik-kaushik07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/hardik-kaushik07/LeetCode/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/hardik-kaushik07/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hardik-kaushik07/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hardik-kaushik07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/hardik-kaushik07/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/hardik-kaushik07/LeetCode/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/hardik-kaushik07/LeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/hardik-kaushik07/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/hardik-kaushik07/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -617,4 +620,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hardik-kaushik07/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/hardik-kaushik07/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/hardik-kaushik07/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
