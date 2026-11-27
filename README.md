@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/hardik-kaushik07/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hardik-kaushik07/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hardik-kaushik07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hardik-kaushik07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardik-kaushik07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0996-number-of-squareful-arrays](https://github.com/hardik-kaushik07/LeetCode/tree/master/0996-number-of-squareful-arrays) |
 | [1137-n-th-tribonacci-number](https://github.com/hardik-kaushik07/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardik-kaushik07/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Prefix Sum
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/hardik-kaushik07/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/hardik-kaushik07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardik-kaushik07/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/hardik-kaushik07/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/hardik-kaushik07/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/hardik-kaushik07/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hardik-kaushik07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
